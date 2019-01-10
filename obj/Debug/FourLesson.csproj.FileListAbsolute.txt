@@ -1,0 +1,7 @@
+C:\Users\гороховв\source\repos\FourLesson\FourLesson\bin\Debug\FourLesson.exe.config
+C:\Users\гороховв\source\repos\FourLesson\FourLesson\bin\Debug\FourLesson.exe
+C:\Users\гороховв\source\repos\FourLesson\FourLesson\bin\Debug\FourLesson.pdb
+C:\Users\гороховв\source\repos\FourLesson\FourLesson\obj\Debug\FourLesson.csprojAssemblyReference.cache
+C:\Users\гороховв\source\repos\FourLesson\FourLesson\obj\Debug\FourLesson.csproj.CoreCompileInputs.cache
+C:\Users\гороховв\source\repos\FourLesson\FourLesson\obj\Debug\FourLesson.exe
+C:\Users\гороховв\source\repos\FourLesson\FourLesson\obj\Debug\FourLesson.pdb
